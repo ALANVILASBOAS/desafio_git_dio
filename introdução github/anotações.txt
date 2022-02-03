@@ -1,0 +1,25 @@
+Contribuidor: 
+
+1: Dar o fork 
+2: criar uma pasta no seu pc
+3: dar um git clone (link do seu repositorio)
+4: entrar dentro da pasta criada (clone)
+5: dar um git remote add upstream (link do repositorio principal/projeto)
+6: dar um git push 
+7: dar o pull request e comparar com a branch que você queira subir / no repositorio do github
+
+Caso você queira baixar os arquivos do repositorio principal
+git pull upstream (nome do repositorio remoto)
+
+Sempre que a pessoa for dar um Push, antes de tudo de um Pull para saber se está tudo em dia
+
+Lider: 
+
+1: criar um branch dentro do github com qualquer nome preferencia: "Development"
+2: dentro do cmd, clone o seu repositorio.
+3: opcional criar uma branch com o nome "development" / não afetara a sua branch do GitHub.
+4: adicionar os arquivos 
+5: git push origin development
+6: Sempre que a pessoa for dar um Push, antes de tudo de um Pull para saber se está tudo em dia
+
+
