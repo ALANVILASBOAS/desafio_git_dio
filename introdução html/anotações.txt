@@ -1,0 +1,12 @@
+Bootstrap:
+<div class="container-fluid"> - container sem margem
+
+<div class="container">
+                <div class="row"> - Enfileirar
+                    <div class="col-lg-4"> - col (coluna), lg (large), 4 (4 de 12)  
+
+
+
+
+
+
