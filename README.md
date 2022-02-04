@@ -22,7 +22,7 @@ Criado para anotações ao longo dos estudos.
 [Storyset - imagens cartunizados](https://storyset.com/)
 <br>
 [Freepik - imagens cartunizados](https://www.freepik.com/)
-
+<br>
 [Fontawesome - icones](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
 
