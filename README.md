@@ -16,4 +16,4 @@ Criado para anotações ao longo dos estudos.
 
 [Documentação JQuery](https://jqueryui.com/)
 
-[Bootstrap -  framework para paginas web](https://themes.getbootstrap.com/)
+[Bootstrap -  framework para paginas web](https://getbootstrap.com/docs/5.1/examples/)
