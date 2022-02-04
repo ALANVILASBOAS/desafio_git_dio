@@ -6,7 +6,7 @@ Criado para anotações ao longo dos estudos.
 ## Links úteis:
 
 #### Tutoriais
-[MarkdownGuide - Guia básico](https://www.markdownguide.org/basic-syntax/)
+[MarkdownGuide - Guia básico markdown](https://www.markdownguide.org/basic-syntax/)
 <br>
 [W3Schools - tutorial de tecnologias web](https://www.w3schools.com/)
 
@@ -22,6 +22,8 @@ Criado para anotações ao longo dos estudos.
 [Storyset - imagens cartunizados](https://storyset.com/)
 <br>
 [Freepik - imagens cartunizados](https://www.freepik.com/)
+
+[Fontawesome - icones](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
 
 #### Videos tutoriais:
