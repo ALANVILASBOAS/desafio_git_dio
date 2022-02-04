@@ -32,6 +32,9 @@ Criado para anotações ao longo dos estudos.
 [Introdução github - Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 
+facilitadores:
+[HTML Color Codes - Nomeclatura de cores para HTML](https://htmlcolorcodes.com/)
+
 
 
 
