@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap");
+
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(212, 250, 255);
+}
+h1{
+    color: rgb(66, 66, 66);
+}
+
+button {
+  border: 1px solid rgb(16, 86, 129);
+  border-radius: 5px;
+  background-color: rgb(227, 248, 255);
+  color: rgb(16, 86, 129);
+  text-align: center;
+  padding: 5px;
+}
+
+input[type="text"] {
+    
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(16, 86, 129);
+}
+
+#tasks {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+:checked + label {
+  text-decoration: line-through;
+  color: grey;
+}

@@ -1,3 +1,11 @@
  Funções - Passagem de Parâmetros
 
 https://www.youtube.com/watch?v=3MGvn7Fjem8
+
+node nomeDaPasta.js - usar no terminal para rodar o arquivo js
+
+ <button id="botao" onclick="nomeFuncao()">-</button> - rodar função quando clicado
+
+para não precisar colocar "onclick" no HTML, pode ser usado addEventListener na pagina de script, exemplo:
+
+document.getElementById("botao").addEventListener("click", nomeFuncao);
