@@ -7,7 +7,7 @@ var listaDeEmails = [
 
 
 
-// Em forEach é esperado outra função, o qual podem ter de 1 a 3 parametros, e elas serão chamadas se simplesmente nomeá-las. A ordem dos parametros são: itens do array, index, 
+// Em forEach é esperado outra função, o qual podem ter de 1 a 3 parametros, e elas serão chamadas se simplesmente nomeá-las. A ordem dos parametros são: itens, index, array completo
 
 // exemplo: Percorra cada item do array listaDeEmails, e para cada item:
 //envie um "Olá"
