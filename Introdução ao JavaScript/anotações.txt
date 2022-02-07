@@ -1,4 +1,6 @@
- Funções - Passagem de Parâmetros
+javascript tipada fracamente - Quanto mais tipada uma linguagem é, mas a necessidade de discriminar os tipos de dados. Javascript já faz isso automático.
+
+Funções - Passagem de Parâmetros
 
 https://www.youtube.com/watch?v=3MGvn7Fjem8
 
@@ -9,3 +11,5 @@ node nomeDaPasta.js - usar no terminal para rodar o arquivo js
 para não precisar colocar "onclick" no HTML, pode ser usado addEventListener na pagina de script, exemplo:
 
 document.getElementById("botao").addEventListener("click", nomeFuncao);
+
+console.log(typeof(nomeVariavel)); - tipeof para mostrar o tipo de dados de uma variável.
