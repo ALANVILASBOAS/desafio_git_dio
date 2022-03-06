@@ -1,9 +1,9 @@
 
-var listaDeEmails = [
+let listaDeEmails = [
     'alan07.vb@gmail.com',
     'alan07_vb@hotmail.com',
     'alan.franco.vilas@hotmail.com',
-    'allanvilasboas@gmail.com']
+    'allanvilasboas@gmail.com'];
 
 
 
@@ -16,7 +16,7 @@ listaDeEmails.forEach(() => {
 }) 
 
 // exemplo: Percorra cada item do array listaDeEmails, e para cada item:
-//item será represento por "email".
+//item será representado por "email".
 //o n° de índice será representado por "index".
 //o array total será representado por "full"
 //imprima "email" (que agora representa os itens do array)
